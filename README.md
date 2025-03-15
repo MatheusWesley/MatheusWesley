@@ -1,28 +1,71 @@
-## Matheus Wesley - Desenvolvedor Full-Stack 🚀
+<h1 align="left">About Me</h1>
 
-Sou apaixonado por criar soluções web, algumas inovadoras outras nem tanto (rsrsrs). Com foco em **tecnologias modernas** e eficientes, tenho experiência tanto no **front-end** quanto no **back-end**.
+###
 
-### 👨‍💻 Experiência
+<br clear="both">
 
-Desde 2013, durante o curso Técnico de Informática para Internet no **IFMA**, venho aprimorando meus conhecimentos em desenvolvimento web. Isso me permitiu criar uma base sólida em **HTML, CSS,** e **JavaScript**.
+<p align="left">Sou apaixonado por criar soluções web, algumas inovadoras outras nem tanto (rsrsrs). Com foco em <b>tecnologias modernas</b> e eficientes, tenho experiência tanto no <b>front-end</b> quanto no <b>back-end</b>.</p>
 
-Atualmente, faço diversos cursos pela **Rocketseat** e estou sempre buscando **novos desafios** para expandir meus conhecimentos e contribuir para novos projetos.
+- FullStack Developer
+- Rocketseat Student
 
-### 🛠️ Habilidades Técnicas
+###
 
-#### Front-end:
-- **Frameworks**: React, Vue, Quasar
-- **Estilização**: Tailwind CSS
-- **Linguagens**: HTML, JavaScript, CSS
+<h2 align="left">Techs</h2>
 
-#### Back-end:
-- **Frameworks**: Fastify, Express, NodeJS
-- **Banco de dados**:
-  - SQL: Firebase, MySQL, PostgreSQL
-  - NoSQL: MongoDB, MariaDB
-- **GraphQL**: GraphiQL
+###
 
-### 💻 Alguns Projetos
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+</div>
 
-- **Locadora-Quasar**: [acesse aqui](https://github.com/MatheusWesley/locadora-quasar).
-- **Pass-in-web**: [acesse aqui](https://github.com/MatheusWesley/pass-in-web).
+###
+
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuswesley&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuswesley&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mathwesley/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="matheuswesley#6892" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/math.w/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
