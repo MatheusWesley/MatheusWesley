@@ -15,12 +15,12 @@ Sou um **Desenvolvedor FullStack** apaixonado por criar soluções web modernas 
 
 **Linguagens & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,tailwind,graphql" alt="Tech Stack Front" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,tailwind,graphql,bash" alt="Tech Stack Front" />
 </p>
 
 **Banco de Dados & Outros**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,bash,html,css" alt="Tech Stack Back/Utils" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Tech Stack Back/Utils" />
 </p>
 
 ---
